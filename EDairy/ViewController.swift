@@ -24,6 +24,8 @@ class ViewController: UIViewController {
     
 
     @IBAction func btnScan(_ sender: Any) {
+        
+        print("Scan Doc")
     }
 
 }
